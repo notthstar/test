@@ -1,3 +1,7 @@
 Git is a great!
 this is a test.
-Two test!
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 0c19b767839d6b254bbf6170dc61f713f5024a5f
